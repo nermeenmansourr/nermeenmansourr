@@ -6,8 +6,6 @@ Give me a messy spreadsheet and a vague question, and I'll come back with the st
 
 Currently: analyzing sales and pricing data at Realme — digging into SKU performance, revenue trends, and checkout flow issues to figure out where things are going wrong.
 
-What I actually work with
-
-SQL Python (pandas, NumPy) Power BI Excel Looker Studio
-
-Not a list of logos I copy-pasted — this is genuinely the stack I open every day.
+🤝 I'm looking to collaborate on Data Analytics and Business Intelligence projects
+💬 Ask me about SQL, Power BI, and Data Storytelling
+📫 How to reach me: nermeenmansour61@gmail.com
