@@ -1,16 +1,13 @@
-## Hi there 👋
+Nermeen Mansour
 
-<!--
-**nermeenmansourr/nermeenmansourr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I don't just look at numbers — I interrogate them until they tell me something useful.
 
-Here are some ideas to get you started:
+Give me a messy spreadsheet and a vague question, and I'll come back with the story hiding inside the data: where the money's leaking, why the funnel's breaking, who your actual best customers are.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently: analyzing sales and pricing data at Realme — digging into SKU performance, revenue trends, and checkout flow issues to figure out where things are going wrong.
+
+What I actually work with
+
+SQL Python (pandas, NumPy) Power BI Excel Looker Studio
+
+Not a list of logos I copy-pasted — this is genuinely the stack I open every day.
